@@ -1,25 +1,27 @@
-﻿# Lingadevaru Linux Portfolio
+# 🐧 Ubuntu Portfolio
 
-Ubuntu-style personal portfolio built with Next.js and Tailwind CSS.
+An interactive developer portfolio inspired by the Ubuntu OS interface, delivering a desktop-like experience on the web.
 
-## Run locally
+## 🚀 Features
+- Ubuntu-style desktop UI  
+- Window-based app system  
+- Interactive icons and navigation  
+- Responsive design  
+- Smooth user experience  
+
+## 🛠️ Tech Stack
+- Next.js  
+- React  
+- Tailwind CSS  
+- JavaScript  
+
+## 📸 Preview
+_Add screenshots here_
+
+## ⚙️ Installation
 
 ```bash
+git clone https://github.com/lingadevaru-hp/ubuntu-portfolio.git
+cd ubuntu-portfolio
 npm install
 npm run dev
-```
-
-Open `http://localhost:3000` (or your configured port).
-
-## Build for production
-
-```bash
-npm run build
-npm run start
-```
-
-## Personal data source
-
-This version is customized for Lingadevaru H P using:
-- `lingadevaru resume.pdf`
-- social handles: `lingadevaruhp` (GitHub: `lingadevaru-hp`)
